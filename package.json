@@ -18,6 +18,8 @@
   "homepage": "https://github.com/link00000000/spotify-cli#readme",
   "dependencies": {
     "blessed": "^0.1.81",
+    "bluebird": "^3.5.1",
+    "dotenv": "^5.0.1",
     "spotify-web-api-node": "^3.1.1"
   }
 }
