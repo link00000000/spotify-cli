@@ -1,16 +1,18 @@
 {
   "name": "spotify-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "A command line interface for spotify",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "dev": "nodemon",
+    "install-dependencies": "npm install && cd spotify-web-api && npm install"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/link00000000/spotify-cli.git"
   },
-  "author": "",
+  "author": "Logan Crandall (@link00000000)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/link00000000/spotify-cli/issues"
