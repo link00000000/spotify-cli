@@ -1,6 +1,6 @@
 # Spotify CLI
 
-A command line interface for Spotify
+A command line interface for Spotify.
 
 ![Spotify CLI demonstration](https://i.imgur.com/7iDXj5w.png)
 
@@ -56,4 +56,4 @@ See also the list of [contributors](https://github.com/link00000000/spotify-cli/
 
 ## License
 
-This project is licensed under the GPL3 License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GPL3 License - see the [LICENSE.md](https://github.com/link00000000/spotify-cli/blob/master/LICENSE) file for details.
