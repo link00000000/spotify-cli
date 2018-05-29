@@ -62,3 +62,4 @@ typings/
 
 # visual studio code
 .vscode
+authorization.json
